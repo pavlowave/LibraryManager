@@ -27,7 +27,6 @@
 1. **Клонируйте репозиторий**:
    ```bash
     git clone https://github.com/pavlowave/LibraryManager
-    cd LibraryManager
 
 2. **Убедитесь, что у вас установлен Python 3.8+:**:
     ```bash
@@ -43,6 +42,8 @@
 ## Запуск приложения
 
 1. **Перейдите в директорию проекта.**
+   ```bash
+    cd LibraryManager
 
 2. **Выполните команду:**:
     ```bash
